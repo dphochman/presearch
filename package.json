@@ -1,0 +1,27 @@
+{
+  "name": "presearch",
+  "version": "0.0.1",
+  "description": "Compound search",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "presearch",
+    "search",
+    "andsearch",
+    "find",
+    "findstr"
+  ],
+  "author": "David P. Hochman",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.0.5",
+    "ts-node": "^8.10.1"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "typescript": "^3.9.3"
+  }
+}

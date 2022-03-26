@@ -21,7 +21,7 @@
     "ts-node": "^8.10.1"
   },
   "dependencies": {
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "typescript": "^3.9.3"
   }
 }
